@@ -1,0 +1,43 @@
+{
+  "name": "hello-express",
+  "version": "1.0.0",
+  "description": "bot gw ini kampang",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "discord.js": "^12.2.0",
+    "node-superfetch": "^0.1.10",
+    "discord-giveaways": "^4.1.8",
+    "ms": "^2.1.2",
+    "mathjs": "^6.6.5",
+    "random-puppy": "^1.1.0",
+    "figlet": "^1.4.0",
+    "weather-js": "^2.0.0",
+    "parse-ms": "^2.0.0",
+    "quick.db": "^7.1.1",
+    "anime-scraper": "^3.1.1",
+    "moment-duration-format": "^2.2.2",
+    "moment": "^2.26.0",
+    "os": "^0.1.1",
+    "cpu-stat": "^2.0.1",
+    "node-fetch": "^2.6.0",
+    "request-promise-native": "^1.0.8",
+    "http": "^0.0.0",
+    "simple-youtube-api": "^5.2.1",
+    "dotenv": "^8.2.0",
+    "ytdl-core": "^3.1.1",
+    "@discordjs/opus": "^0.3.2",
+    "snekfetch": "^4.0.4",
+    "imageapi.js": "^1.0.3",
+    "axios": "^0.19.2",
+    "md5": "^2.2.1",
+    "canvas": "^2.6.1"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "license": "Apache-2.0"
+}
