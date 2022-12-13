@@ -7,7 +7,7 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "discord.js": "^12.2.0",
     "node-superfetch": "^0.1.10",
     "discord-giveaways": "^4.1.8",
